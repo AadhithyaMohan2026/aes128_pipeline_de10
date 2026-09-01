@@ -37,3 +37,9 @@ The pipeline encrypts continuous streaming 128-bit blocks with an initial latenc
 ├── de10_aes_top.qsf           # Quartus pin assignments & device settings
 ├── de10_aes_top.qpf           # Quartus project definition
 └── README.md
+
+
+
+https://github.com/user-attachments/assets/8bdd1442-94a1-4b0e-a7c5-2b9405bb3e7a
+
+
