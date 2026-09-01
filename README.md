@@ -18,6 +18,7 @@ The pipeline encrypts continuous streaming 128-bit blocks with an initial latenc
 * **Hardware On-Board Verification:** Integrated with on-chip RAM/MIF block feeding, control switches/buttons, and 7-segment display status decoders.
 
 ---
+https://github.com/user-attachments/assets/8bdd1442-94a1-4b0e-a7c5-2b9405bb3e7a
 
 ## Project Directory Structure
 
@@ -40,6 +41,6 @@ The pipeline encrypts continuous streaming 128-bit blocks with an initial latenc
 
 
 
-https://github.com/user-attachments/assets/8bdd1442-94a1-4b0e-a7c5-2b9405bb3e7a
+
 
 
